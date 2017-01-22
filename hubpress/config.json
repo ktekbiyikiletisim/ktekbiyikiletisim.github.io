@@ -4,7 +4,14 @@
     "repositoryName": "ktekbiyikiletisim.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Kürşat Tekbıyık"
+  },
+  "socialnetwork": {
+    "email": "ktekbiyik.iletisim@gmail.com",
+    "facebook": ""
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
